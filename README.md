@@ -1,6 +1,7 @@
 # Enem 2017 Analysis
 ## Notebook para transformação de dados:
-Contém notebook com transformações e modelagem em Source Code
+Contém notebook com transformações e modelagem em reading data.py
+
 Para rodar basta utilizar IDE ou ambiente com python 3.7 com as seguintes bibliotecas:
 * ftplib any version
 * pandas 0.23.4
