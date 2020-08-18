@@ -10,7 +10,7 @@ O mesmo se aplica para atualizar os dados no PowerBI.
 
 ## Visualização de Resultados
 
-O arquivo .pbix encontra-se no link do google drive : 
+O arquivo .pbix encontra-se no link do google drive : https://drive.google.com/file/d/19UYzfIAgGDb8bkkbTuDWTVGfWdHhROux/view?usp=sharing
 
 ## Modelagem escolhida:
 
